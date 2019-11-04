@@ -1,3 +1,5 @@
+CollectorVision Phoenix Atari 2600 Core
+
 Port of the A2601 FPGA implementation for the CollectorVision Phoenix
 ---------------------------------------------------------------------------------
 -Will add more info shortly
